@@ -5,4 +5,5 @@ which aims to explore high-performance interfacial seawater evaporation technolo
 analysis process is implemented by COMSOL.
 
 3.The purpose of creating this project is to enhance my own learning and 
-strengthening of fluid-structure interaction simulation, and there is no other commercial purpose or conflict of interest.
+improvement of COMSO multi-physics field thermal and moisture coupling 
+simulation. There are no other commercial purposes or conflicts of interest.
