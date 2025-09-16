@@ -5,5 +5,5 @@ which aims to explore high-performance interfacial seawater evaporation technolo
 analysis process is implemented by COMSOL.
 
 3.The purpose of creating this project is to enhance my own learning and 
-improvement of COMSO multi-physics field thermal and moisture coupling 
+improvement of COMSOL multi-physics field thermal and moisture coupling 
 simulation. There are no other commercial purposes or conflicts of interest.
