@@ -8,3 +8,6 @@ Matlab and Python (CityU HK also holds the relevant licenses for these software)
 3.The purpose of creating this project is to enhance my own learning and 
 improvement of COMSOL multi-physics field thermal and moisture coupling 
 simulation. There are no other commercial purposes or conflicts of interest.
+
+4.The project content includes the original master's thesis and project summary 
+Project 6. High-Performance-Solar-Interfacial-Evaporation-Technology, as well as 6 major references
